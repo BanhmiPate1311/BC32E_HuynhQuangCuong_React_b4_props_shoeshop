@@ -23,7 +23,7 @@ export default class ProductItem extends Component {
             <button className="btn btn-dark">
               add to cart{" "}
               <span>
-                <i class="fa-solid fa-cart-arrow-down"></i>
+                <i className="fa-solid fa-cart-arrow-down"></i>
               </span>
             </button>
           </div>
