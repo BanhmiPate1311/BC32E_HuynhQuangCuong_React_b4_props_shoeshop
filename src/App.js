@@ -1,12 +1,12 @@
 // import logo from './logo.svg';
 // import './App.css';
 
-import ShoesStore from "./components/ShoesStore/ShoesStore";
+import BTForm from "./components/BTForm/BTForm";
 
 function App() {
   return (
     <div className="App">
-      <ShoesStore />
+      <BTForm />
     </div>
   );
 }
